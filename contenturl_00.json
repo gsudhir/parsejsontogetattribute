@@ -1,0 +1,464 @@
+{
+  "source": "https://bbhadldev.blob.core.windows.net/audiotests/test-genesys-call.wav?sp=r&st=2021-07-08T16:05:05Z&se=2021-07-09T00:05:05Z&spr=https&sv=2020-08-04&sr=b&sig=7TL6yOi9P46I1Dv5V3zaKP%2BCW%2Fq%2FzEU3LkNLULJoS8w%3D",
+  "timestamp": "2021-07-08T17:29:30Z",
+  "durationInTicks": 6295200000,
+  "duration": "PT10M29.52S",
+  "combinedRecognizedPhrases": [
+    {
+      "channel": 0,
+      "lexical": "wow find the monica sorry",
+      "itn": "wow find the monica sorry",
+      "maskedITN": "wow find the monica sorry",
+      "display": "Wow. Find the Monica. Sorry."
+    },
+    {
+      "channel": 1,
+      "lexical": "thank you for calling lively please hold the line for our next customer care advisor if you would like to take a survey after this call press one thank you for calling we are currently experiencing high call volumes your call could be delayed more than ten minutes we appreciate your patience and will be with you as soon as possible we are experiencing high call volumes at this time if you would like to hold your place in the line and receive a call back from the next available advisor please press one or you may stay on the line to continue to hold to ensure the highest quality of service your call may be monitored or recorded and it's gonna tell me that it's gonna tell me fine i love there's some reverb here let me get rid of that ah so so it's been waiting right now so the phone call activity was actually created let's look at that right now we can see what the call from looks like because it found a phone call write it yeah so let me uh let's go look for that phone call real quick over here uh i think that we don't have activities here i'll just pop up in advance find real quick i think i've got a phone call search up they have to search for the contest the advisors that's their next step if it's then they would create one so here they would say what's your name what's your name ma'am and they might say peggy or whatever and then they would first and then they would pick it up but but i give me just one second give me just one second let me focus on this for just a minute here i don't want to mess something up and then we have to make the call again bat i don't want to pick a contact and have it go out of waiting let me just make sure we're still in waiting OK good let me get to the right browser here where is my advance find window there it is phone calls i've got one created here ah OK where is six twenty four created by what the heck created today no i gotta get rid of this there we go alright so this is it let's see what it shows before we find the contact it doesn't show any call from so i'm gonna leave this open and then i'm going to find a contact you can see that the reguarding is not set yet call from not set so let's pick a contact here i'm going to select from the contact list rather than the customer list because this workflow requires them to look at a contact remember so i get this one alright now we've switched to the contact so let's refresh this phone call over here where's my refresh button is there one here we go no not updated yet mister regarding updated who maybe i need to hit the save button i wouldn't think so either but it is showing so let me look at the process again let's see what it's showing it's saying it's still waiting so what is it waiting for wait until phone call regarding contains data so we are waiting for i sync to populate this data now and maybe i have to make a change in this record i am i might have to i wonder if autosave is enough to trigger that let me look at the phone call again real quick we have to figure that out what's getting what's causing let me just look over here real quick let's see i want to be in here logged in it's me i want to open this up again all the way over here go to solutions because i wonder if we have to navigate away from it maybe box when it does it so i've navigated to i've navigated to the yeah give me one second here let me go to advanced find right now you wanna see the phone call or you just want me to reopen sure we can refresh the process though yeah it's still waiting the process is still waiting so let me do this it might be it might pick it up when yeah that's still in waiting it might pick it up when i navigate away from that contact record but i just want to check one thing real quick make sure i alright well give me just they're going to give us just one minute here so let me just make sure we've got this contact that's all that's all set so let's do this let me just real quick navigate away from this contact and uh great fresh yeah let me just go to the account real quick see if that triggers it to get updated and if not i'll have to get i will have to get interactions think people engaged uh to see what triggers that because i believe we've got that set up and i did get to work and create the case once or is my process here we go it's sort of looking for still waiting OK let's jump over to scrumple i'll reach out to the interaction seeing people and see what the deal is OK sounds good thank you sir bye",
+      "itn": "thank you for calling lively please hold the line for our next customer care advisor if you would like to take a survey after this call press 1 thank you for calling we are currently experiencing high call volumes your call could be delayed more than 10 minutes we appreciate your patience and will be with you as soon as possible we are experiencing high call volumes at this time if you would like to hold your place in the line and receive a call back from the next available advisor please press one or you may stay on the line to continue to hold to ensure the highest quality of service your call may be monitored or recorded and it's gonna tell me that it's gonna tell me fine i love there's some reverb here let me get rid of that ah so so it's been waiting right now so the phone call activity was actually created let's look at that right now we can see what the call from looks like because it found a phone call write it yeah so let me uh let's go look for that phone call real quick over here uh i think that we don't have activities here i'll just pop up in advance find real quick i think i've got a phone call search up they have to search for the contest the advisors that's their next step if it's then they would create one so here they would say what's your name what's your name ma'am and they might say peggy or whatever and then they would first and then they would pick it up but but i give me just one second give me just one second let me focus on this for just a minute here i don't want to mess something up and then we have to make the call again bat i don't want to pick a contact and have it go out of waiting let me just make sure we're still in waiting OK good let me get to the right browser here where is my advance find window there it is phone calls i've got one created here ah OK where is 624 created by what the heck created today no i gotta get rid of this there we go alright so this is it let's see what it shows before we find the contact it doesn't show any call from so i'm gonna leave this open and then i'm going to find a contact you can see that the reguarding is not set yet call from not set so let's pick a contact here i'm going to select from the contact list rather than the customer list because this workflow requires them to look at a contact remember so i get this one alright now we've switched to the contact so let's refresh this phone call over here where's my refresh button is there one here we go no not updated yet mr regarding updated who maybe i need to hit the save button i wouldn't think so either but it is showing so let me look at the process again let's see what it's showing it's saying it's still waiting so what is it waiting for wait until phone call regarding contains data so we are waiting for i sync to populate this data now and maybe i have to make a change in this record i am i might have to i wonder if autosave is enough to trigger that let me look at the phone call again real quick we have to figure that out what's getting what's causing let me just look over here real quick let's see i want to be in here logged in it's me i want to open this up again all the way over here go to solutions because i wonder if we have to navigate away from it maybe box when it does it so i've navigated to i've navigated to the yeah give me one second here let me go to advanced find right now you wanna see the phone call or you just want me to reopen sure we can refresh the process though yeah it's still waiting the process is still waiting so let me do this it might be it might pick it up when yeah that's still in waiting it might pick it up when i navigate away from that contact record but i just want to check one thing real quick make sure i alright well give me just they're going to give us just one minute here so let me just make sure we've got this contact that's all that's all set so let's do this let me just real quick navigate away from this contact and uh great fresh yeah let me just go to the account real quick see if that triggers it to get updated and if not i'll have to get i will have to get interactions think people engaged uh to see what triggers that because i believe we've got that set up and i did get to work and create the case once or is my process here we go it's sort of looking for still waiting OK let's jump over to scrumple i'll reach out to the interaction seeing people and see what the deal is OK sounds good thank you sir bye",
+      "maskedITN": "thank you for calling lively please hold the line for our next customer care advisor if you would like to take a survey after this call press 1 thank you for calling we are currently experiencing high call volumes your call could be delayed more than 10 minutes we appreciate your patience and will be with you as soon as possible we are experiencing high call volumes at this time if you would like to hold your place in the line and receive a call back from the next available advisor please press one or you may stay on the line to continue to hold to ensure the highest quality of service your call may be monitored or recorded and it's gonna tell me that it's gonna tell me fine i love there's some reverb here let me get rid of that ah so so it's been waiting right now so the phone call activity was actually created let's look at that right now we can see what the call from looks like because it found a phone call write it yeah so let me uh let's go look for that phone call real quick over here uh i think that we don't have activities here i'll just pop up in advance find real quick i think i've got a phone call search up they have to search for the contest the advisors that's their next step if it's then they would create one so here they would say what's your name what's your name ma'am and they might say peggy or whatever and then they would first and then they would pick it up but but i give me just one second give me just one second let me focus on this for just a minute here i don't want to mess something up and then we have to make the call again bat i don't want to pick a contact and have it go out of waiting let me just make sure we're still in waiting ok good let me get to the right browser here where is my advance find window there it is phone calls i've got one created here ah ok where is 624 created by what the heck created today no i gotta get rid of this there we go alright so this is it let's see what it shows before we find the contact it doesn't show any call from so i'm gonna leave this open and then i'm going to find a contact you can see that the reguarding is not set yet call from not set so let's pick a contact here i'm going to select from the contact list rather than the customer list because this workflow requires them to look at a contact remember so i get this one alright now we've switched to the contact so let's refresh this phone call over here where's my refresh button is there one here we go no not updated yet mr regarding updated who maybe i need to hit the save button i wouldn't think so either but it is showing so let me look at the process again let's see what it's showing it's saying it's still waiting so what is it waiting for wait until phone call regarding contains data so we are waiting for i sync to populate this data now and maybe i have to make a change in this record i am i might have to i wonder if autosave is enough to trigger that let me look at the phone call again real quick we have to figure that out what's getting what's causing let me just look over here real quick let's see i want to be in here logged in it's me i want to open this up again all the way over here go to solutions because i wonder if we have to navigate away from it maybe box when it does it so i've navigated to i've navigated to the yeah give me one second here let me go to advanced find right now you wanna see the phone call or you just want me to reopen sure we can refresh the process though yeah it's still waiting the process is still waiting so let me do this it might be it might pick it up when yeah that's still in waiting it might pick it up when i navigate away from that contact record but i just want to check one thing real quick make sure i alright well give me just they're going to give us just one minute here so let me just make sure we've got this contact that's all that's all set so let's do this let me just real quick navigate away from this contact and uh great fresh yeah let me just go to the account real quick see if that triggers it to get updated and if not i'll have to get i will have to get interactions think people engaged uh to see what triggers that because i believe we've got that set up and i did get to work and create the case once or is my process here we go it's sort of looking for still waiting ok let's jump over to scrumple i'll reach out to the interaction seeing people and see what the deal is ok sounds good thank you sir bye",
+      "display": "Thank you for calling lively. Please hold the line for our next customer care advisor. If you would like to take a survey after this call, press 1. Thank you for calling. We are currently experiencing high call volumes. Your call could be delayed more than 10 minutes. We appreciate your patience and will be with you as soon as possible. We are experiencing high call volumes at this time. If you would like to hold your place in the line and receive a call back from the next available advisor, please press one or you may stay on the line to continue to hold. To ensure the highest quality of service your call may be monitored or recorded. And it's gonna tell me that. It's gonna tell me fine. I love. There's some reverb here. Let me get rid of that. Ah. So, so it's been waiting. Right now, so the phone call. Activity was actually created. Let's look at that. Right now we can see what the call from looks like. Because it found a phone call. Write it. Yeah, so let me, uh, let's go look for that phone call real quick over here. Uh, I think that we don't have activities here, I'll just pop up in advance. Find real quick. I think I've got a phone call. Search up. They have to search for the contest, the advisors, that's their next step if it's. Then they would create one. So here they would say what's your name? What's your name, ma'am? And they might say Peggy or whatever, and then they would first. And then they would pick it up, but but I give me just one. Second, give me just one. Second, let me focus on this for just a minute here. I don't want to mess something up and then we have to make the call again. Bat. I don't want to pick a contact and have it go out of waiting. Let me just make sure we're still in waiting, OK? Good, let me get to the right browser here. Where is my advance find window? There it is, phone calls. I've got one created here. Ah, OK. Where is 624? Created by. What the heck? Created today. No, I gotta get rid of this. There we go. Alright. So this is it, let's see. What it shows. Before we find the contact, it doesn't show any call from, so I'm gonna leave this open. And then I'm going to find a contact. You can see that. The Reguarding is not set yet. Call from not set. So let's pick a contact here. I'm going to select from the contact list rather than the customer list because this workflow. Requires them to look at a contact, remember? So I get this one. Alright, now we've switched to the contact, so let's refresh this phone call over here. Where's my refresh button? Is there one? Here we go? No. Not updated yet. Mr Regarding updated who? Maybe I need to hit the save button? I wouldn't think so either, but it is showing. So let me look at the process again. Let's see what it's showing. It's saying it's still waiting. So what is it waiting for? Wait until phone call regarding contains data. So we are waiting for I sync to populate this data now. And maybe I have to make a change in this record. I am I might have to. I wonder if Autosave is enough to trigger that. Let me look at the phone call again real quick. We have to figure that out. What's getting what's causing? Let me just look over here real quick. Let's see, I want to be in here. Logged in, it's me. I want to open this up again. All the way over here, go to solutions. Because I wonder if we have to navigate away from it. Maybe? Box when it does it, so I've navigated to. I've navigated to the. Yeah, give me one second here. Let me go to advanced find right now. You wanna see the phone call? Or you just want me to reopen? Sure. We can refresh the process though. Yeah, it's still waiting. The process is still waiting. So let me do this. It might be it might. Pick it up. When, yeah, that's still in waiting. It might pick it up when I navigate away from that contact record, but I just want to check one thing real quick. Make sure I. Alright, well give me just they're going to give us just one minute here, so let me just make sure we've got this contact. That's all, that's all set. So let's do this. Let me just real quick. Navigate away from this contact. And, uh. Great fresh. Yeah, let me just go to the account real quick. See if that triggers it to get updated. And if not, I'll have to get. I will have to get. Interactions think people engaged. Uh. To see what triggers that, because I believe we've got that set up and I did get to work and create the case. Once or is my process. Here we go. It's sort of looking for. Still waiting, OK. Let's jump over to scrumple. I'll reach out to the interaction seeing people and see what the deal is. OK, sounds good. Thank you Sir. Bye."
+    }
+  ],
+  "recognizedPhrases": [
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT4.35S",
+      "duration": "PT20S",
+      "offsetInTicks": 43500000.0,
+      "durationInTicks": 200000000.0,
+      "nBest": [
+        {
+          "confidence": 0.0,
+          "lexical": "",
+          "itn": "",
+          "maskedITN": "",
+          "display": ""
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT3.91S",
+      "duration": "PT0.41S",
+      "offsetInTicks": 39100000.0,
+      "durationInTicks": 4100000.0,
+      "nBest": [
+        {
+          "confidence": 0.8612407,
+          "lexical": "wow",
+          "itn": "wow",
+          "maskedITN": "wow",
+          "display": "Wow.",
+          "words": [
+            {
+              "word": "wow9",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 99100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.86124074
+            }
+          ]
+        },
+        {
+          "confidence": 0.741524,
+          "lexical": "the wow",
+          "itn": "the wow",
+          "maskedITN": "the wow",
+          "display": "the wow",
+          "words": [
+            {
+              "word": "wow0",
+              "offset": "PT1.29S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 12900000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.985763
+            },
+            {
+              "word": "wow1",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 19100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.60195875
+            },
+            {
+              "word": "wow2",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 29100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.60195875
+            },
+            {
+              "word": "wow3",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 39100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.60195875
+            },
+            {
+              "word": "wow4",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 49100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.60195875
+            }
+          ]
+        },
+        {
+          "confidence": 0.94800884,
+          "lexical": "oh wow",
+          "itn": "oh wow",
+          "maskedITN": "oh wow",
+          "display": "oh wow",
+          "words": [
+            {
+              "word": "oh",
+              "offset": "PT1.43S",
+              "duration": "PT0.02S",
+              "offsetInTicks": 14300000.0,
+              "durationInTicks": 200000.0,
+              "confidence": 0.83614624
+            },
+            {
+              "word": "wow",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 39100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.955999
+            }
+          ]
+        },
+        {
+          "confidence": 0.8083369,
+          "lexical": "yeah wow",
+          "itn": "yeah wow",
+          "maskedITN": "yeah wow",
+          "display": "yeah wow",
+          "words": [
+            {
+              "word": "yeah",
+              "offset": "PT1.35S",
+              "duration": "PT0.13S",
+              "offsetInTicks": 13500000.0,
+              "durationInTicks": 1300000.0,
+              "confidence": 0.9814734
+            },
+            {
+              "word": "wow",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 39100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.7506247
+            }
+          ]
+        },
+        {
+          "confidence": 0.2500311,
+          "lexical": "wow",
+          "itn": "wow",
+          "maskedITN": "wow",
+          "display": "WOW",
+          "words": [
+            {
+              "word": "WOW",
+              "offset": "PT3.91S",
+              "duration": "PT0.41S",
+              "offsetInTicks": 39100000.0,
+              "durationInTicks": 4100000.0,
+              "confidence": 0.2500311
+            }
+          ]
+        },
+        {
+          "confidence": 0.9696496,
+          "lexical": "whats getting whats causing it let me just look over here real quick",
+          "itn": "whats getting whats causing it let me just look over here real quick",
+          "maskedITN": "whats getting whats causing it let me just look over here real quick",
+          "display": "whats getting whats causing it let me just look over here real quick",
+          "words": [
+            {
+              "word": "whats",
+              "offset": "PT6M25.36S",
+              "duration": "PT0.33S",
+              "offsetInTicks": 3853600000.0,
+              "durationInTicks": 3300000.0,
+              "confidence": 0.9897032
+            },
+            {
+              "word": "getting",
+              "offset": "PT6M25.7S",
+              "duration": "PT0.63S",
+              "offsetInTicks": 3857000000.0,
+              "durationInTicks": 6300000.0,
+              "confidence": 0.9919684
+            },
+            {
+              "word": "whats",
+              "offset": "PT6M26.39S",
+              "duration": "PT0.58S",
+              "offsetInTicks": 3863900000.0,
+              "durationInTicks": 5800000.0,
+              "confidence": 0.99078286
+            },
+            {
+              "word": "causing",
+              "offset": "PT6M26.98S",
+              "duration": "PT0.71S",
+              "offsetInTicks": 3869800000.0,
+              "durationInTicks": 7100000.0,
+              "confidence": 0.95072144
+            },
+            {
+              "word": "it",
+              "offset": "PT6M27.7S",
+              "duration": "PT0.1S",
+              "offsetInTicks": 3877000000.0,
+              "durationInTicks": 1000000.0,
+              "confidence": 0.9573091
+            },
+            {
+              "word": "let",
+              "offset": "PT6M27.83S",
+              "duration": "PT0.18S",
+              "offsetInTicks": 3878300000.0,
+              "durationInTicks": 1800000.0,
+              "confidence": 0.98747396
+            },
+            {
+              "word": "me",
+              "offset": "PT6M28.02S",
+              "duration": "PT0.09S",
+              "offsetInTicks": 3880200000.0,
+              "durationInTicks": 900000.0,
+              "confidence": 0.9782689
+            },
+            {
+              "word": "just",
+              "offset": "PT6M28.12S",
+              "duration": "PT0.35S",
+              "offsetInTicks": 3881200000.0,
+              "durationInTicks": 3500000.0,
+              "confidence": 0.98727494
+            },
+            {
+              "word": "look",
+              "offset": "PT6M28.48S",
+              "duration": "PT0.27S",
+              "offsetInTicks": 3884800000.0,
+              "durationInTicks": 2700000.0,
+              "confidence": 0.98496604
+            },
+            {
+              "word": "over",
+              "offset": "PT6M28.76S",
+              "duration": "PT0.23S",
+              "offsetInTicks": 3887600000.0,
+              "durationInTicks": 2300000.0,
+              "confidence": 0.98882395
+            },
+            {
+              "word": "here",
+              "offset": "PT6M29S",
+              "duration": "PT0.43S",
+              "offsetInTicks": 3890000000.0,
+              "durationInTicks": 4300000.0,
+              "confidence": 0.9782717
+            },
+            {
+              "word": "real",
+              "offset": "PT6M29.44S",
+              "duration": "PT0.19S",
+              "offsetInTicks": 3894400000.0,
+              "durationInTicks": 1900000.0,
+              "confidence": 0.8910451
+            },
+            {
+              "word": "quick",
+              "offset": "PT6M29.64S",
+              "duration": "PT0.73S",
+              "offsetInTicks": 3896400000.0,
+              "durationInTicks": 7300000.0,
+              "confidence": 0.9343227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recognitionStatus": "Success",
+      "channel": 0,
+      "offset": "PT1M4.46S",
+      "duration": "PT1.16S",
+      "offsetInTicks": 644600000.0,
+      "durationInTicks": 11600000.0,
+      "nBest": [
+        {
+          "confidence": 0.97405356,
+          "lexical": "find the monica",
+          "itn": "find the monica",
+          "maskedITN": "find the monica",
+          "display": "Find the Monica.",
+          "words": [
+            {
+              "word": "find",
+              "offset": "PT1M4.46S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 644600000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.9840468
+            },
+            {
+              "word": "the",
+              "offset": "PT1M4.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 648400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.973109
+            },
+            {
+              "word": "monica",
+              "offset": "PT1M5.05S",
+              "duration": "PT0.57S",
+              "offsetInTicks": 650500000.0,
+              "durationInTicks": 5700000.0,
+              "confidence": 0.9677178
+            }
+          ]
+        },
+        {
+          "confidence": 0.96456665,
+          "lexical": "find the conquer",
+          "itn": "find the conquer",
+          "maskedITN": "find the conquer",
+          "display": "find the conquer",
+          "words": [
+            {
+              "word": "find",
+              "offset": "PT1M4.46S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 644600000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.9840468
+            },
+            {
+              "word": "the",
+              "offset": "PT1M4.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 648400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9585563
+            },
+            {
+              "word": "conquer",
+              "offset": "PT1M4.97S",
+              "duration": "PT0.65S",
+              "offsetInTicks": 649700000.0,
+              "durationInTicks": 6500000.0,
+              "confidence": 0.95453465
+            }
+          ]
+        },
+        {
+          "confidence": 0.9640521,
+          "lexical": "find the conqueror",
+          "itn": "find the conqueror",
+          "maskedITN": "find the conqueror",
+          "display": "find the conqueror",
+          "words": [
+            {
+              "word": "find",
+              "offset": "PT1M4.46S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 644600000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.9840468
+            },
+            {
+              "word": "the",
+              "offset": "PT1M4.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 648400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9585563
+            },
+            {
+              "word": "conqueror",
+              "offset": "PT1M4.97S",
+              "duration": "PT0.65S",
+              "offsetInTicks": 649700000.0,
+              "durationInTicks": 6500000.0,
+              "confidence": 0.95362234
+            }
+          ]
+        },
+        {
+          "confidence": 0.97254753,
+          "lexical": "find the conquered",
+          "itn": "find the conquered",
+          "maskedITN": "find the conquered",
+          "display": "find the conquered",
+          "words": [
+            {
+              "word": "find",
+              "offset": "PT1M4.46S",
+              "duration": "PT0.37S",
+              "offsetInTicks": 644600000.0,
+              "durationInTicks": 3700000.0,
+              "confidence": 0.9840468
+            },
+            {
+              "word": "the",
+              "offset": "PT1M4.84S",
+              "duration": "PT0.12S",
+              "offsetInTicks": 648400000.0,
+              "durationInTicks": 1200000.0,
+              "confidence": 0.9585563
+            },
+            {
+              "word": "conquered",
+              "offset": "PT1M4.97S",
+              "duration": "PT0.67S",
+              "offsetInTicks": 649700000.0,
+              "durationInTicks": 6700000.0,
+              "confidence": 0.96879625
+            }
+          ]
+        },
+        {
+          "confidence": 0.9827903,
+          "lexical": "that's fine",
+          "itn": "that's fine",
+          "maskedITN": "that's fine",
+          "display": "that's fine",
+          "words": [
+            {
+              "word": "that's",
+              "offset": "PT1M3.21S",
+              "duration": "PT0.29S",
+              "offsetInTicks": 632100000.0,
+              "durationInTicks": 2900000.0,
+              "confidence": 0.98212063
+            },
+            {
+              "word": "fine",
+              "offset": "PT1M4.46S",
+              "duration": "PT0.36S",
+              "offsetInTicks": 644600000.0,
+              "durationInTicks": 3600000.0,
+              "confidence": 0.9833331
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
